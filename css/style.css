@@ -122,7 +122,9 @@
 .custom-box-shadow {
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
-
+.custom-bg-img {
+    width: 160px !important;
+}
 /*** Navbar ***/
 .navbar.sticky-top {
     top: -100px;
